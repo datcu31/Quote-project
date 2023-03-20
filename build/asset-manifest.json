@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quote-project/static/css/main.d3827df1.css",
+    "main.js": "/Quote-project/static/js/main.71007fc2.js",
+    "index.html": "/Quote-project/index.html",
+    "main.d3827df1.css.map": "/Quote-project/static/css/main.d3827df1.css.map",
+    "main.71007fc2.js.map": "/Quote-project/static/js/main.71007fc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3827df1.css",
+    "static/js/main.71007fc2.js"
+  ]
+}
